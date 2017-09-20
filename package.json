@@ -1,0 +1,23 @@
+{
+  "name": "etutils",
+  "version": "0.0.1",
+  "description": "A collection of various handy utility things for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyethereal/node-etutils.git"
+  },
+  "keywords": [
+    "utilities",
+    "logging"
+  ],
+  "author": "Tom Seago <tom@eyethereal.com> (https://eyethereal.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyethereal/node-etutils/issues"
+  },
+  "homepage": "https://github.com/eyethereal/node-etutils#readme"
+}
